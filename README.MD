@@ -7,12 +7,12 @@
 
 ## My GitHub Stats:
 
-![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical)
+![Cemal Sezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical)
 
 ## My Top Langs:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damlacim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
