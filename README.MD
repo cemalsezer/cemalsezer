@@ -1,6 +1,7 @@
 
 # Merhaba, ben Cemal Sezer 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cemalsezerx)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemal-sezer/)
