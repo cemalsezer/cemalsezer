@@ -1,16 +1,13 @@
 
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
- 
 ### Research, learn and share.
-
-
+- I am studying computer programming at Celal Bayar University.
+Making a positive impact on people and providing long-term benefits is my primary mission. Being a lifelong student is one of the things that excites me the most.  
+<hr>
 ## My GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="cemalsezer" /></p>
-
-## My Top Langs:
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en" alt="cemalsezer" width="50%" /></p>
 
 
@@ -37,9 +34,10 @@
 ## Contact:
 <p align="left">
 <a href="https://www.linkedin.com/in/cemal-sezer/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cemal-sezer" height="30" width="30" /></a>
+ <a href="https://twitter.com/cemalsezerx" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="cemalsezerx" height="30" width="35" /></a>
+ <a href="https://www.hackerrank.com/cemalsezer_dev" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="cemalsezer" height="40" width="40" /></a>
 <a href="https://www.instagram.com/cemalsezerx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cemalsezerx" height="30" width="30" /></a>
-<a href="https://medium.com/@cemalsezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cemalsezer" height="30" width="40" /></a>
+<a href="https://medium.com/@cemalsezer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png" alt="@cemalsezer" height="30" width="40" /></a>
 </p>
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cemalsezer.visitor-badge)
