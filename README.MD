@@ -30,7 +30,7 @@ Making a positive impact on people and providing long-term benefits is my primar
 
 
 
-## Contact:
+### Contact:
 <p align="left">
 <a href="https://www.linkedin.com/in/cemal-sezer/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cemal-sezer" height="30" width="30" /></a>
  <a href="https://twitter.com/cemalsezerx" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="cemalsezerx" height="30" width="35" /></a>
