@@ -2,9 +2,11 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 ### Research, learn and share.
-- I am studying computer programming at Celal Bayar University.
-Making a positive impact on people and providing long-term benefits is my primary mission. Being a lifelong student is one of the things that excites me the most.  
-- I am currently learning JavaScript, C#
+- Making a positive impact on people and providing long-term benefits to the world is one of my life missions.
+I intend to realize it by working on projects that will produce technological solutions to climate change.
+- I am currently interested in JavaScript, .Net
+- I am improving myself on storytelling as a hobby.
+
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="cemalsezer" /></p>
