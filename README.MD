@@ -4,6 +4,7 @@
 ### Research, learn and share.
 - I am studying computer programming at Celal Bayar University.
 Making a positive impact on people and providing long-term benefits is my primary mission. Being a lifelong student is one of the things that excites me the most.  
+- I am currently learning JavaScript, C#
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="cemalsezer" /></p>
