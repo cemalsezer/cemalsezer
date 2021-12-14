@@ -2,8 +2,7 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 ### Research, learn and share.
-- Making a positive impact on people and providing long-term benefits to the world is one of my life missions.
-I intend to realize it by working on projects that will produce technological solutions to climate change.
+- Making a positive impact on people and bringing long-term benefits to the world is one of my missions in life. I want to support this mission by working on projects that will produce technological solutions to climate change.
 - I am currently interested in JavaScript, .Net
 - I am improving myself on storytelling as a hobby.
 
