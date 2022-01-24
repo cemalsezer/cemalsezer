@@ -4,7 +4,6 @@
 ### Research, learn and share.
 - Making a positive impact on people and bringing long-term benefits to the world is one of my missions in life. I want to support this mission by working on projects that will produce technological solutions for social benefit.
 - I am currently interested in JavaScript, .Net
-- I am improving myself on storytelling as a hobby.
 
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
