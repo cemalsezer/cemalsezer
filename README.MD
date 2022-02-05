@@ -5,7 +5,7 @@
 - Making a positive impact on people and bringing long-term benefits to the world is one of my missions in life. I want to support this mission by working on projects that will produce technological solutions for social benefit.
 - 💪 I'm a Software Developer
 - 🔭 I'm interested in Front-End
-- 🌱 I’m currently learning Javascript and Python etc.
+- 🌱 I’m currently learning Javascript
 
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
