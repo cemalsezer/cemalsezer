@@ -1,11 +1,9 @@
 
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
-### Research, learn and share.
-- Making a positive impact on people and bringing long-term benefits to the world is one of my missions in life. I want to support this mission by working on projects that will produce technological solutions for social benefit.
 - 💪 I'm a Software Developer
 - 🔭 I'm interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 💻 So sweet to learn and contribute new things
 
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
