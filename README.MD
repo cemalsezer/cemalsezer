@@ -2,8 +2,9 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 - 💪 I'm a Software Developer
-- 🔭 I'm interested in Web Development
-- 💻 So sweet to learn and contribute new things
+- 🔭 I'm interested in Software Ecosystem
+- 🌱 I’m currently learning Web Development
+
 
 <hr>
 <h3 align="left">My GitHub Stats:</h3>
