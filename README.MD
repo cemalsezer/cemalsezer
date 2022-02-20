@@ -2,7 +2,6 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 - 💪 I'm a Software Developer
-- 🔭 I'm interested in Software Ecosystem
 - 🌱 I’m currently learning Web Development
 
 
