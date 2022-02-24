@@ -1,7 +1,7 @@
 
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
-- 💪 I'm a Software Developer
+- 💪 I'm Software Developer
 - 🌱 I’m currently learning Web Development
 
 
