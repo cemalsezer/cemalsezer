@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning Frontend Development
 - 💪 I share what I've learned. You can follow my Github and other accounts.
-- For posts: <a href="https://www.instagram.com/cszr.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cszr.dev" height="30" width="30" /></a>
-
 
 
 <hr>
