@@ -2,7 +2,7 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 - 🌱 I’m currently learning Frontend Development
-- 💪 I share what I've learned. You can follow my Github and other accounts.
+- 💪 I share what I've learned. If you want to learn just follow.
 
 
 <hr>
