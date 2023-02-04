@@ -35,6 +35,7 @@
 <a href="https://www.linkedin.com/in/cemal-sezer/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cemal-sezer" height="30" width="30" /></a>
  <a href="https://twitter.com/cemalsezerx" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="cemalsezerx" height="30" width="35" /></a>
 <a href="https://www.instagram.com/cemalsezerx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cemalsezerx" height="30" width="30" /></a>
+ <a href="https://medium.com/@cemalsezer" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png](https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png)" alt="cemalsezer" height="30" width="30" /></a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cemalsezer.visitor-badge)
