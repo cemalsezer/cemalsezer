@@ -2,7 +2,7 @@
 <h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
 
 - 🔥  I'm just a developer and curious.
-- 🌱 I’m currently learning on front-end development and  AI techs.
+- 🌱 I’m currently learning on Front-end development and  Ai techs.
 - 💪 I share what I've learned. If you want to learn just follow.
 
 
