@@ -34,6 +34,8 @@
 <br>
 
 
+ 
+ <div style="margin:auto width:50% "><a href="https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en"></></div>
 ![](https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact) 
