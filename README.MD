@@ -36,7 +36,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cemalsezer&theme=radical&locale) 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cemalsezer&theme=radical&locale)
 
 
