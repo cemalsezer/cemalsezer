@@ -1,50 +1,21 @@
-
-<h1 align="center">HELLO WORLD! I'm Cemal 👋</h1>
-
-- 🎓 I'm just a developer and curious.
-- 🔥 I'm currently learning on ai techs and I'm interested in space and robotics.
+# 💫 About Me:
+🎓 I'm just a developer and curious.<br>🔥 I'm currently learning on ai techs and I'm interested in space and robotics.
 
 
-<hr>
-<h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="cemalsezer" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en" alt="cemalsezer" width="50%" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cemalsezerx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cemalsezer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cemalsezer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cemalsezerx) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="27" height="30"/> </a>
-
-
-### Contact:
-<p align="left">
-<a href="https://www.linkedin.com/in/cemal-sezer/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cemal-sezer" height="30" width="30" /></a>
- <a href="https://twitter.com/cemalsezerx" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="cemalsezerx" height="30" width="35" /></a>
-<a href="https://www.instagram.com/cemalsezerx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cemalsezerx" height="30" width="30" /></a>
- <a href="https://medium.com/@cemalsezer" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" alt="cemalsezer" height="30" width="30" /></a>
-</p>
-
+# 📊 GitHub Stats:
 <details>
-<summary>My Github Stats</summary>
-<br>
+ <summary>Stats</summary>
 
-<p>;<img style="margin:auto" align="center" src="https://github-readme-stats.vercel.app/api?username=cemalsezer&show_icons=true&theme=radical&locale=en" alt="cemalsezer" width="50%" /></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=cemalsezer&show_icons=true&theme=radical&locale=en&layout=compact) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cemalsezer&theme=radical&locale)
-
-
-<br>
-
+![](https://github-readme-stats.vercel.app/api?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cemalsezer&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
-
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cemalsezer.visitor-badge)
+---
+[![](https://visitcount.itsvg.in/api?id=cemalsezer&icon=0&color=1)](https://visitcount.itsvg.in)
