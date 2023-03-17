@@ -18,7 +18,7 @@
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
-<a href="" target="_blank"> <img src="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png)" alt="csharp" width="27" height="30"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="27" height="30"/> </a>
 
 
 
