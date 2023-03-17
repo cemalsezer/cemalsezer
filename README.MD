@@ -21,9 +21,6 @@
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="27" height="30"/> </a>
 
 
-
-
-
 ### Contact:
 <p align="left">
 <a href="https://www.linkedin.com/in/cemal-sezer/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cemal-sezer" height="30" width="30" /></a>
@@ -31,5 +28,24 @@
 <a href="https://www.instagram.com/cemalsezerx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cemalsezerx" height="30" width="30" /></a>
  <a href="https://medium.com/@cemalsezer" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" alt="cemalsezer" height="30" width="30" /></a>
 </p>
+
+<details>
+<summary>My Github Stats</summary>
+<br>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cemalsezer&theme=radical&locale) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cemalsezer&theme=radical&locale) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cemalsezer&theme=radical&locale)
+
+
+<br>
+
+</details>
+
+
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cemalsezer.visitor-badge)
