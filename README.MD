@@ -1,5 +1,5 @@
 # 💫 Hello World!:
-🎓 I'm just a developer and curious.<br>🔥 I'm currently learning on ai techs and I'm interested in space and robotics.
+🎓 I'm just a developer and curious.<br>🔥 I'm currently learning on cs50x lectures.
 
 
 ## 🌐 Socials:
