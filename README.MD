@@ -1,5 +1,5 @@
 # 💫 Hello World!:
-🎓 I'm just a developer and curious.<br>🔥 I'm currently learning on cs50x lectures.
+🎓 I'm just a developer and curious.<br>🔥 I'm currently learning on Harvard cs50x lectures.
 
 
 ## 🌐 Socials:
