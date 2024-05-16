@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cemal</h1>
 
-<p align="center">
+<p align="">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&background=FFFFFF00&width=435&lines=Software+Developer" alt="Typing SVG">
 </p>
 
@@ -19,7 +19,7 @@ As a curious and passionate software developer, I aim to research and create inn
 </p>
 
 ## 💻 Tech Stack:
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
