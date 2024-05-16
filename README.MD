@@ -10,7 +10,7 @@ As a curious and passionate software developer, I aim to research and create inn
 
 
 ## 🌐 Connect with me:
-<p align="center">
+<p align="">
   <a href="https://linkedin.com/in/cemal-sezer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/cemalsezerx"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter"></a>
   <a href="https://medium.com/@cemalsezer"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
