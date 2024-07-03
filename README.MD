@@ -55,6 +55,7 @@ As a curious and passionate software developer, I aim to research and create inn
   <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br/> -->
+    <br/>
    <img src="https://visitcount.itsvg.in/api?id=cemalsezer&icon=0&color=1" alt="Profile Visit Count">
   </p> 
 </details>
