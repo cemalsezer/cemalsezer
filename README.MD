@@ -49,17 +49,15 @@ As a curious and passionate software developer, I aim to research and create inn
 ## 📊 GitHub Stats:
 <details>
   <summary>Click to expand!</summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cemalsezer&theme=gotham&hide_border=true" alt="GitHub Streak">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-<!--  <p align="center">
+  <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br/> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemalsezer&theme=gotham&hide_border=true" alt="GitHub Streak">
-    <br/>
+   
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-      <br/>
+    
     <img src="https://visitcount.itsvg.in/api?id=cemalsezer&icon=0&color=1" alt="Profile Visit Count">
-  </p> -->
+  </p> 
 </details>
 
 <!-- ## ✍️ Recent Blog Posts:
