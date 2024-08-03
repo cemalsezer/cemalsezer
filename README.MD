@@ -60,9 +60,8 @@ As a curious and passionate software developer, I aim to research and create inn
   </p> 
 </details>
 
-<!-- ## ✍️ Recent Blog Posts:
-<!-- BLOG-POST-LIST:START
-BLOG-POST-LIST:END -->
-
 ---
+
+## ✍️ Recent Blog Post: 
+https://medium.com/@cemalsezer/redux-ile-react-uygulamalar%C4%B1nda-durum-y%C3%B6netimi-bd377dd59049
 
