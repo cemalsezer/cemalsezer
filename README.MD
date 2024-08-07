@@ -63,5 +63,5 @@ As a curious and passionate software developer, I aim to research and create inn
 ---
 
 ## ✍️ Recent Blog Post: 
-https://medium.com/@cemalsezer/redux-ile-react-uygulamalar%C4%B1nda-durum-y%C3%B6netimi-bd377dd59049
+https://medium.com/@cemalsezer/abstract-vs-interface-hangisini-ne-zaman-kullanmal%C4%B1y%C4%B1z-490fa58e275d
 
