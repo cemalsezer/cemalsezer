@@ -63,5 +63,4 @@ As a curious and passionate software developer, I aim to research and create inn
 ---
 
 ## ✍️ Recent Blog Post: 
-https://medium.com/@cemalsezer/abstract-vs-interface-hangisini-ne-zaman-kullanmal%C4%B1y%C4%B1z-490fa58e275d
-
+https://medium.com/@cemalsezer/array-ve-linked-list-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-96b99fa66251
