@@ -11,9 +11,9 @@ As a curious and passionate software developer, I aim to research and create inn
 
 ## 🌐 Connect with me:
 <p align="">
-  <a href="https://linkedin.com/in/cemal-sezer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/cemalsezerx"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter"></a>
-  <a href="https://medium.com/@cemalsezer"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://linkedin.com/in/cemal-sezer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/cemalsezerx"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
+  <a href="https://medium.com/@cemalsezer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://leetcode.com/u/cemalsezer/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Medium"></a>
   <a href="https://www.hackerrank.com/profile/cemalsezer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Medium"></a>
 
