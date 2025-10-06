@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cemal</h1>
+<h1 align="center">Hello World <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cemal</h1>
 
 <p align="">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&background=FFFFFF00&width=435&lines=Software+Developer" alt="Typing SVG">
@@ -25,14 +25,12 @@ As a curious and passionate software developer, I aim to research and create inn
 ## 📊 GitHub Stats:
 <details>
   <summary>Click to expand!</summary>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemalsezer&theme=gotham&hide_border=true" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     
   <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=cemalsezer&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br/> -->
     <br/>
-   <img src="https://visitcount.itsvg.in/api?id=cemalsezer&icon=0&color=1" alt="Profile Visit Count">
   </p> 
 </details>
 
