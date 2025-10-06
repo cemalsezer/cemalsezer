@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&background=FFFFFF00&width=435&lines=Software+Developer" alt="Typing SVG">
 </p>
 
-As a curious and passionate software developer, I aim to research and create innovative technological solutions that enhance performance and user experience. Currently, I am focusing on fullstack web development, striving to gain deep knowledge in both front-end and back-end technologies. By continuously learning and staying updated with the latest trends, I endeavor to deliver the best solutions in my projects.
+As a curious and passionate software developer, I aim to research and create innovative technological solutions that enhance performance and user experience. Currently, I am focusing on fullstack web development.
 
 
 
