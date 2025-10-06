@@ -1,10 +1,14 @@
-
-<h1 align="">Hello World <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cemal</h1>
+<h1 align="center">Hello World 
+  <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cemal
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&background=FFFFFF00&width=435&lines=Software+Developer" alt="Typing SVG">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&background=FFFFFF00&lines=Software+Developer"
+    alt="Typing SVG"
+    style="display: block; margin: auto;"
+  >
 </p>
-
 As a curious and passionate software developer, I aim to research and create innovative technological solutions that enhance performance and user experience. Currently, I am focusing on fullstack web development.
 
 
